@@ -1,7 +1,11 @@
+.team-wrapper {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: rgb(247, 247, 247);
+}
 .team-container{
     display: flex;
     justify-content: center;
-    padding-top: 7%;
 }
 
 .team-title{

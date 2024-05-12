@@ -1,7 +1,10 @@
 .video-container{
     display: flex;
     justify-content: center;
-    padding-top: 7%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+        background-color: rgb(255, 255, 255);
+        align-items: center;
 }
 
 .video-text{

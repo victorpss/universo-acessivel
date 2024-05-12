@@ -9,7 +9,7 @@ import Article from '../.././assets/Article-Icon.svg'
 
 function Files(){
   return (
-    <React.Fragment>
+    <div className='files-wrapper'>
       <div className='files-title'>Materiais</div>
         <div className='files-container'>
           <Material 
@@ -47,7 +47,7 @@ function Files(){
               downloadLink="" // link do drive
           />
       </div>
-    </React.Fragment>
+    </div>
   );
 };
 

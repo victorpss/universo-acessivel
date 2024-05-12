@@ -1,11 +1,12 @@
 .projects-container{
-    padding: 20px;
+    padding: 60px;
+    background-color: #edf4f7;
+    padding-bottom: 90px;
 }
 
 .projects-title{
     font-size: 48px;
     font-family: 'Gravity-Bold';
-    padding-top: 135px;
     text-align: center;
 }
 

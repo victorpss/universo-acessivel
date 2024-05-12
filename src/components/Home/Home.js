@@ -14,12 +14,11 @@ function Home() {
     <React.Fragment>
       <Header />
       <Introduction />
-      <Description />
       <Files />
+      <Description />
       <Projects />
       <Video />
       <Team />
-      <div style={{ height: "100px" }}> </div>
       <Footer />
     </React.Fragment>
   );
